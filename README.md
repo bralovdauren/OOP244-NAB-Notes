@@ -1,4 +1,4 @@
-# OOP244 NAB and NC in-class notes and material 
+# OOP244 NAB in-class notes and material 
 
 ## OOP244 links 
 [Subject outline](https://ict.senecacollege.ca/course/oop244)<br />
@@ -44,7 +44,7 @@ By doing this you will only lose the mark for the parts you got help for, and th
 When a submittable work is open for submission the folllowing command will be activated on matrix:
 **~profname.proflastname/submit  244/N??/WSXX/lab** or <br />
 **~profname.proflastname/submit  244/N??/WSXX/diy** <br />
-**~profname.proflastname/submit  244/NCC/PRJ/msX** <br />
+**~profname.proflastname/submit  244/N??/PRJ/msX** <br />
 replace **??** with your section and **XX** with workshop or milestone number to submit your work.<br /><br />
 You can always add the flag **-due** to the end of the command line to see what are the due dates,<br />
 Example: <br />
@@ -54,11 +54,11 @@ The execution of this command with generate something like this:<br/>
 **===============================================================<br/>
 System date and time: Monday, 2019/09/30 - 09:54<br/>
 <br/>
-Listing Workshop 5 «DIY»  due dates:<br/>
+Listing Workshop 5 Â«DIYÂ»  due dates:<br/>
 Submissions are open after Sunday, 2019/09/29 - 23:59.<br/>
 On time submission before Monday, 2019/10/14 - 23:59<br/>
-«late -20%» submission after Monday, 2019/10/14 - 23:59<br/>
-«very late -50%» submission after Saturday, 2019/10/19 - 23:59<br/>
+Â«late -20%Â» submission after Monday, 2019/10/14 - 23:59<br/>
+Â«very late -50%Â» submission after Saturday, 2019/10/19 - 23:59<br/>
 Submissions are rejected after Monday, 2019/10/21 - 23:59!**<br/>
 
 
